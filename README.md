@@ -1,6 +1,6 @@
 ## Who Am I? 
 
-How about donating something for my work and all my efforts? I'm over 20 years into malware, linux, windows, security and hardening topics, I write everything in my spare free time and try to provide as much useful information for the mass ass possible. 
+How about donating something for my work and all my efforts? I'm over 20 years into malware, linux, windows, security and hardening topics, I write everything in my spare free time and try to provide as much useful information for the mass as possible. 
 
 
 
