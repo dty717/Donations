@@ -21,9 +21,9 @@ Donate via Paypal:
 
 
 
-Donate via Monero: 47JxaNJqeAo8FqzP1KMXXSPpwmggxKz4nWcyfMvS3j7yGkdt57VQiB6U1xyTuRdDDgX8MZqjRHFd76JLQQUoTbgzUwU1uhX
+Donate via Monero:
 
-![My Monero Account](https://raw.githubusercontent.com/CHEF-KOCH/Donations/master/PayPal/Paypal.png)
+![My Monero Account](https://raw.githubusercontent.com/CHEF-KOCH/Donations/master/PayPal/Paypal.png) 47JxaNJqeAo8FqzP1KMXXSPpwmggxKz4nWcyfMvS3j7yGkdt57VQiB6U1xyTuRdDDgX8MZqjRHFd76JLQQUoTbgzUwU1uhX
 
 
 
