@@ -1,10 +1,26 @@
-## Who Am I? 
+## Who Am I?<br />
 
 How about donating something for my work and all my efforts? I'm over 20 years into malware, linux, windows, security and hardening topics, I write everything in my spare free time and try to provide as much useful information for the mass as possible. 
 
 
+## What I'm gonna do with the money?
 
-## Monthly support
+* Research on security related topics 
+* Buy new equipment for testing things
+* Coffee ☕
+
+
+## Wanna contact me?<br />
+
+Via Threema:<br />
+![Threema](https://raw.githubusercontent.com/CHEF-KOCH/Donations/master/Contact/Threema.png)
+
+Via Discord:<br />
+![Discord](https://raw.githubusercontent.com/CHEF-KOCH/Donations/master/Contact/Discord.jpg)
+
+
+
+## Monthly support<br />
 
 [Pledging on Patreon](https://www.patreon.com/NVinside) (recurring, with perks for different tiers, you can cancel at any time).
 
@@ -12,7 +28,7 @@ How about donating something for my work and all my efforts? I'm over 20 years i
 
 ## One-time donation
 
-Donate via Paypal: 
+Donate via Paypal:<br />
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V2DPZ4PDLMBSE)
 
 
@@ -21,8 +37,7 @@ Donate via Paypal:
 
 
 
-Donate via Monero:
-
+Donate via Monero:<br />
 ![My Monero Account](https://raw.githubusercontent.com/CHEF-KOCH/Donations/master/PayPal/Paypal.png) 47JxaNJqeAo8FqzP1KMXXSPpwmggxKz4nWcyfMvS3j7yGkdt57VQiB6U1xyTuRdDDgX8MZqjRHFd76JLQQUoTbgzUwU1uhX
 
 
