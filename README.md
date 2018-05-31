@@ -33,7 +33,7 @@ Via Discord:<br />
 ## One-time donation
 
 Donate via Paypal:<br />
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V2DPZ4PDLMBSE)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/nvinside)
 
 
 ![My Paypal Account](https://raw.githubusercontent.com/CHEF-KOCH/Donations/master/PayPal/Paypal.png)
