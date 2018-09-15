@@ -4,7 +4,7 @@
 
 ## Who Am I?<br />
 
-How about donating something for my work and all my efforts? I'm over 20 years into malware, linux, windows, security and hardening topics. I write everything in my spare free time and try to provide as much useful information for the mass as possible. Recently I started my own [Blog](https://chefkochblog.wordpress.com/) to stay in contact with you guys. 
+How about donating something for my work and all my efforts? I'm over 20 years into malware, linux, windows, security and hardening topics. I write everything in my spare free time and try to provide as much useful information for the mass as possible. Recently I started my own [Blog](https://chef-koch.github.io/) to stay in contact with you guys. 
 
 
 ## What I'm gonna do with the donations?
